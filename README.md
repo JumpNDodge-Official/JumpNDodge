@@ -1,4 +1,6 @@
-
+-------------------------------------------------------------------------------------------------------
+This README only includes the first Version of JumpNDodge. For further Information join my Discord Server.
+------------------------------------------------------------------------------------------------------
 
 Jump'n'Dodge
 
