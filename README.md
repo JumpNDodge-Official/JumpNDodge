@@ -1,5 +1,3 @@
-https://www.virustotal.com/gui/file/a6e6b2f78b7596dc866688f572834bfe442de9c41714cc6b8ef0262c7cf4e481/detection
-
 
 
 Jump'n'Dodge
@@ -127,5 +125,6 @@ There are 6 difficulty levels:
 - Supported languages: German, English, Russian, Turkish, Swiss German.
 - Save data stored in JSON files (stats.json, highscores.json, powers.json).
 
-
+-----------------------------------------
 Have fun playing!
+-----------------------------------------
